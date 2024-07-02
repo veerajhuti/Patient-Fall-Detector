@@ -1,0 +1,11 @@
+../Core/Src/main.c:79:6:adxl_write	1
+../Core/Src/main.c:88:6:adxl_read	1
+../Core/Src/main.c:92:6:adxl_init	1
+../Core/Src/main.c:105:6:speaker_alert	3
+../Core/Src/main.c:121:6:read	1
+../Core/Src/main.c:153:5:main	5
+../Core/Src/main.c:233:6:SystemClock_Config	3
+../Core/Src/main.c:280:13:MX_I2C1_Init	2
+../Core/Src/main.c:314:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:347:13:MX_GPIO_Init	1
+../Core/Src/main.c:387:6:Error_Handler	1
